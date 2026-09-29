@@ -1,0 +1,71 @@
+{
+  "footer": {
+    "en-390": {
+      "before": 1201,
+      "after": 703,
+      "reduction": 41
+    },
+    "en-430": {
+      "before": 1201,
+      "after": 667,
+      "reduction": 44
+    },
+    "en-820": {
+      "before": 888,
+      "after": 490,
+      "reduction": 45
+    },
+    "en-1440": {
+      "before": 519,
+      "after": 330,
+      "reduction": 36
+    },
+    "es-390": {
+      "before": 1201,
+      "after": 703,
+      "reduction": 41
+    },
+    "es-430": {
+      "before": 1201,
+      "after": 685,
+      "reduction": 43
+    },
+    "es-820": {
+      "before": 888,
+      "after": 490,
+      "reduction": 45
+    },
+    "es-1440": {
+      "before": 519,
+      "after": 330,
+      "reduction": 36
+    }
+  },
+  "form": [
+    "en: required fields, email, optional units, encoded WhatsApp contents and translated options passed; no message sent",
+    "es: required fields, email, optional units, encoded WhatsApp contents and translated options passed; no message sent"
+  ],
+  "images": [
+    {
+      "lang": "en",
+      "distinct": 10
+    },
+    {
+      "lang": "es",
+      "distinct": 10
+    }
+  ],
+  "layouts": [
+    "en-390",
+    "en-430",
+    "en-820",
+    "en-1280",
+    "en-1440",
+    "es-390",
+    "es-430",
+    "es-820",
+    "es-1280",
+    "es-1440"
+  ],
+  "errors": []
+}

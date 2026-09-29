@@ -1,0 +1,17 @@
+{
+  "pages": 20,
+  "viewports": [
+    390,
+    430,
+    820,
+    1280,
+    1440
+  ],
+  "errors": [],
+  "checks": [
+    "20 pages: EN/ES, internal files and anchors, local images, titles, descriptions, canonical, hreflang, structured data, call/WhatsApp links, 100 responsive page layouts, mobile menu and desktop/mobile bars",
+    "Language selector preserves anchor and persists across direct navigation",
+    "Form required fields, complete encoded bilingual WhatsApp message, safe fallback link; no message sent",
+    "Form draft survives language switch"
+  ]
+}
